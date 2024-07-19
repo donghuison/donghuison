@@ -25,7 +25,12 @@
   <a href="https://www.openmp.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="openmp" height="30"/>
   </a>
+    <a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.open-mpi.org/images/open-mpi-logo.png" alt="openmpi" height="30"/>
+  </a>
 </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donghuison&show_icons=true&locale=en&layout=compact" alt="donghuison" /></p>
 
