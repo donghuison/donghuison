@@ -25,6 +25,9 @@
     <a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer">
     <img src="https://www.open-mpi.org/images/open-mpi-logo.png" alt="openmpi" height="30"/>
   </a>
+    <a href="https://developer.nvidia.com/cuda-fortran" target="_blank" rel="noreferrer">
+    <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/cuda/images/Cuda_Fortran_icon_green.jpg" alt="cuda-fortran" height="30"/>
+  </a>
 </p>
 
 
