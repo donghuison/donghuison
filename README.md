@@ -28,6 +28,9 @@
     <a href="https://developer.nvidia.com/cuda-fortran" target="_blank" rel="noreferrer">
     <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/cuda/images/Cuda_Fortran_icon_green.jpg" alt="cuda-fortran" height="30"/>
   </a>
+    <a href="https://www.nv5geospatialsoftware.com/Products/IDL" target="_blank" rel="noreferrer">
+    <img src="https://kuravih.gallerycdn.vsassets.io/extensions/kuravih/vscode-idl/0.1.2/1550355019862/Microsoft.VisualStudio.Services.Icons.Default" alt="idl" height="30"/>
+  </a>
 </p>
 
 
