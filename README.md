@@ -21,6 +21,10 @@
  </a>
  <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="fortran" height="30"/>
  </a>
+  </a>
+  <a href="https://www.openmp.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="openmp" height="30"/>
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donghuison&show_icons=true&locale=en&layout=compact" alt="donghuison" /></p>
