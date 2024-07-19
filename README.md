@@ -28,17 +28,11 @@
   <a href="https://www.l3harrisgeospatial.com/Software-Technology/IDL" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Exelis-Visual-Information-Solutions-logo.png/1200px-Exelis-Visual-Information-Solutions-logo.png" alt="idl" height="30"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/>
-  </a>
   <a href="https://www.openmp.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OpenMP_logo.svg/1200px-OpenMP_logo.svg.png" alt="openmp" height="30"/>
   </a>
   <a href="https://www.mpich.org/" target="_blank" rel="noreferrer">
     <img src="https://www.mpich.org/static/img/mpich-logo.png" alt="mpi" height="30"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" height="30"/>
   </a>
 </p>
 
