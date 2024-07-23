@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **developing a code to solve multi-dimensional diffusive MHD equations.**
 
-- 💬 My interests include **High-performance Computing and optimization techniques.**
+- 💬 My interests include **high-performance computing and optimization techniques.**
 
 - 📫 How to reach me **dh5243@khu.ac.kr**
 
