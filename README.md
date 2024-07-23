@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Donghui Son</h1>
+<h1 align="center">Hi 👋, <br>I'm Donghui Son</h1>
 <h3 align="center">A Ph.D. student studying Solar Physics and Computational Magnetohydrodynamics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donghuison&label=Profile%20views&color=0e75b6&style=flat" alt="donghuison" /> </p>
