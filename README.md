@@ -18,7 +18,7 @@
  </a>
  <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="fortran" height="30"/>
  </a>
- <a href="https://www.python.org/community/logos/" target="_blank" rel="noreferrer"> <img src="[https://www.python.org/community/logos/](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)" alt="python" height="30"/>
+ <a href="https://www.python.org/community/logos/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" height="30"/>
  </a>
   <a href="https://www.openmp.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" alt="openmp" height="30"/>
