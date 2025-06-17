@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donghuison&label=Profile%20views&color=0e75b6&style=flat" alt="donghuison" /> </p>
 
-- 🔭 I’m currently working on **developing a code to solve multi-dimensional diffusive MHD equations.**
+- 🔭 I’m currently working on **developing a code to solve multi-dimensional radiative (non-ideal) MHD equations.**
 
 - 💬 My interests include **high-performance computing and optimization techniques.**
 
