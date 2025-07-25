@@ -1,7 +1,21 @@
-<h1 align="center">Hello👋 </br>I'm Donghui Son</h1>
-<h3 align="center">A Ph.D. student studying Solar Physics and Computational Magnetohydrodynamics</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+  Donghui Son
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donghuison&label=Profile%20views&color=0e75b6&style=flat" alt="donghuison" /> </p>
+<h3 align="center">Ph.D. Student | Solar Physics | Computational Magnetohydrodynamics</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=donghuison&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<div align="center">
+  <a href="mailto:dh5243@khu.ac.kr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
 
 - 🔭 I’m currently working on **developing a code to solve multi-dimensional radiative (non-ideal) MHD equations.**
 
