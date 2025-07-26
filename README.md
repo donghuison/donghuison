@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <strong>Numerical Methods & Visualization</strong><br>
+  <strong>Visualization</strong><br>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/IDL-Interactive_Data_Language-orange?style=flat-square" alt="IDL" />
