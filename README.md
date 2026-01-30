@@ -46,8 +46,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api?username=donghuison&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;v=1"/>
-  <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api/top-langs/?username=donghuison&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;v=1"/>
+  <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api?username=donghuison&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api/top-langs/?username=donghuison&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight"/>
 </p>
 
 <p align="center">
