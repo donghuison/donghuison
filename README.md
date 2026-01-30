@@ -50,9 +50,8 @@
   <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api/top-langs/?username=donghuison&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight"/>
 </p>
 
-<!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=donghuison&theme=tokyonight" alt="GitHub Streak" /> </p> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donghuison&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donghuison&theme=tokyonight" alt="GitHub Streak" /> 
 </p>
 
 <p align="center">
