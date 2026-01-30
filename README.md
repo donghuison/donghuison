@@ -50,9 +50,7 @@
   <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api/top-langs/?username=donghuison&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=donghuison&amp;theme=tokyonight&amp;v=1" alt="GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=donghuison&theme=tokyonight" alt="GitHub Streak" /> </p>
 
 <p align="center">
   <i>Simulating the Universe, one equation at a time 🌌</i>
