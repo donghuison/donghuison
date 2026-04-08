@@ -29,6 +29,7 @@
   <img src="assets/icons/c.svg" height="40" alt="C" />
   <img src="assets/icons/python.svg" height="40" alt="Python" />
   <img src="assets/icons/linux.svg" height="40" alt="Linux" />
+  <img src='assets/icons/openacc.png' height="40" alt="OpenAcc" />
 </p>
 
 <p align="center">

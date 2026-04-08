@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1024 1024"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">OpenACC badge</title>
+  <desc id="desc">A circular OpenACC badge with a golden rocket launching through layered clouds.</desc>
+
+  <defs>
+    <radialGradient id="ring" cx="50%" cy="38%" r="78%">
+      <stop offset="0%" stop-color="#3b66a4"/>
+      <stop offset="100%" stop-color="#24497f"/>
+    </radialGradient>
+    <radialGradient id="sky" cx="50%" cy="26%" r="74%">
+      <stop offset="0%" stop-color="#9ed6ff"/>
+      <stop offset="58%" stop-color="#6fb8ee"/>
+      <stop offset="100%" stop-color="#4f88cd"/>
+    </radialGradient>
+    <radialGradient id="skyGlow" cx="50%" cy="20%" r="52%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rocketBody" x1="35%" y1="0%" x2="72%" y2="100%">
+      <stop offset="0%" stop-color="#ffe95c"/>
+      <stop offset="64%" stop-color="#ffd50c"/>
+      <stop offset="100%" stop-color="#efbd00"/>
+    </linearGradient>
+    <linearGradient id="rocketShade" x1="16%" y1="0%" x2="84%" y2="100%">
+      <stop offset="0%" stop-color="#fff4ad" stop-opacity="0.78"/>
+      <stop offset="38%" stop-color="#fff4ad" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fin" x1="0%" y1="10%" x2="100%" y2="90%">
+      <stop offset="0%" stop-color="#ffe55d"/>
+      <stop offset="100%" stop-color="#f3c200"/>
+    </linearGradient>
+    <linearGradient id="exhaust" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.32"/>
+    </linearGradient>
+    <radialGradient id="window" cx="38%" cy="34%" r="68%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#d5dce5"/>
+    </radialGradient>
+    <radialGradient id="cloudBack" cx="50%" cy="38%" r="76%">
+      <stop offset="0%" stop-color="#eef4f9"/>
+      <stop offset="100%" stop-color="#ccd7e2"/>
+    </radialGradient>
+    <radialGradient id="cloudFront" cx="50%" cy="36%" r="78%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e4ebf3"/>
+    </radialGradient>
+    <radialGradient id="steam" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.98"/>
+      <stop offset="85%" stop-color="#eef3f8" stop-opacity="0.88"/>
+      <stop offset="100%" stop-color="#dce4ee" stop-opacity="0.65"/>
+    </radialGradient>
+    <filter id="rocketShadow" x="-20%" y="-16%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4.5" flood-color="#3d5f86" flood-opacity="0.18"/>
+    </filter>
+    <filter id="cloudShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5.5" flood-color="#5d7291" flood-opacity="0.11"/>
+    </filter>
+    <filter id="windowShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#4a5662" flood-opacity="0.28"/>
+    </filter>
+    <filter id="steamSoft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.8"/>
+    </filter>
+    <filter id="grain" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence
+        type="fractalNoise"
+        baseFrequency="0.72"
+        numOctaves="2"
+        seed="11"
+        stitchTiles="stitch"
+      />
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.1"/>
+      </feComponentTransfer>
+    </filter>
+    <clipPath id="innerClip">
+      <circle cx="512" cy="512" r="454"/>
+    </clipPath>
+  </defs>
+
+  <circle cx="512" cy="512" r="500" fill="url(#ring)"/>
+  <circle cx="512" cy="512" r="454" fill="url(#sky)"/>
+
+  <g clip-path="url(#innerClip)">
+    <circle cx="512" cy="512" r="454" fill="url(#skyGlow)"/>
+    <rect x="58" y="58" width="908" height="908" fill="#ffffff" opacity="0.2" filter="url(#grain)"/>
+
+    <g opacity="0.98" filter="url(#cloudShadow)">
+      <circle cx="162" cy="604" r="104" fill="url(#cloudBack)"/>
+      <circle cx="338" cy="634" r="95" fill="url(#cloudBack)"/>
+      <circle cx="486" cy="688" r="72" fill="url(#cloudBack)"/>
+      <circle cx="548" cy="714" r="57" fill="url(#cloudBack)"/>
+      <circle cx="608" cy="688" r="72" fill="url(#cloudBack)"/>
+      <circle cx="714" cy="600" r="112" fill="url(#cloudBack)"/>
+      <circle cx="874" cy="621" r="97" fill="url(#cloudBack)"/>
+      <rect x="58" y="690" width="908" height="166" fill="#d9e1ea"/>
+    </g>
+
+    <g>
+      <rect x="493" y="544" width="38" height="205" rx="18" fill="url(#exhaust)" opacity="0.96"/>
+      <rect x="503" y="558" width="18" height="169" rx="9" fill="#ffffff" opacity="0.74"/>
+    </g>
+
+    <g filter="url(#rocketShadow)" transform="translate(82 13) scale(0.84)">
+      <path
+        d="M512 92
+           C492 135 475 194 465 267
+           C455 345 453 418 455 492
+           C458 572 479 626 512 669
+           C545 626 566 572 569 492
+           C571 418 569 345 559 267
+           C549 194 532 135 512 92Z"
+        fill="url(#rocketBody)"
+      />
+      <path
+        d="M512 139
+           C497 179 487 233 482 297
+           C476 373 476 443 479 511
+           C482 560 492 603 512 637
+           C531 603 541 560 544 511
+           C547 443 547 373 541 297
+           C536 233 526 179 512 139Z"
+        fill="url(#rocketShade)"
+      />
+      <path
+        d="M455 426
+           L381 495
+           L381 519
+           L470 498
+           C463 477 458 452 455 426Z"
+        fill="url(#fin)"
+      />
+      <path
+        d="M569 426
+           L643 495
+           L643 519
+           L554 498
+           C561 477 566 452 569 426Z"
+        fill="url(#fin)"
+      />
+      <path
+        d="M465 659
+           C480 673 495 678 512 678
+           C529 678 544 673 559 659
+           C549 674 542 683 532 688
+           C526 690 519 691 512 691
+           C505 691 498 690 492 688
+           C482 683 475 674 465 659Z"
+        fill="#f0c000"
+      />
+      <ellipse cx="512" cy="690" rx="24" ry="4.5" fill="#bf9400" opacity="0.36"/>
+      <circle cx="512" cy="228" r="29" fill="url(#window)" stroke="#c8ced6" stroke-width="1.4" filter="url(#windowShadow)"/>
+      <circle cx="512" cy="319" r="29" fill="url(#window)" stroke="#c8ced6" stroke-width="1.4" filter="url(#windowShadow)"/>
+    </g>
+
+    <g filter="url(#steamSoft)">
+      <circle cx="487" cy="699" r="22" fill="url(#steam)"/>
+      <circle cx="512" cy="694" r="28" fill="url(#steam)"/>
+      <circle cx="538" cy="700" r="22" fill="url(#steam)"/>
+      <circle cx="496" cy="719" r="25" fill="url(#steam)"/>
+      <circle cx="527" cy="721" r="27" fill="url(#steam)"/>
+    </g>
+
+    <g filter="url(#cloudShadow)">
+      <circle cx="165" cy="722" r="121" fill="url(#cloudFront)"/>
+      <circle cx="329" cy="764" r="122" fill="url(#cloudFront)"/>
+      <circle cx="470" cy="804" r="124" fill="url(#cloudFront)"/>
+      <circle cx="610" cy="796" r="102" fill="url(#cloudFront)"/>
+      <circle cx="717" cy="700" r="122" fill="url(#cloudFront)"/>
+      <circle cx="853" cy="726" r="103" fill="url(#cloudFront)"/>
+      <rect x="74" y="808" width="884" height="168" fill="#ffffff"/>
+    </g>
+
+    <g>
+      <text
+        x="512"
+        y="818"
+        text-anchor="middle"
+        textLength="548"
+        lengthAdjust="spacingAndGlyphs"
+        font-size="124"
+        font-weight="650"
+        letter-spacing="-2"
+        font-family="'Avenir Next Condensed', 'Avenir Next', 'Helvetica Neue Condensed Bold', 'Arial Narrow', sans-serif"
+      >
+        <tspan fill="#3f93cd">Open</tspan><tspan fill="#1d376d">ACC</tspan>
+      </text>
+      <text
+        x="512"
+        y="878"
+        text-anchor="middle"
+        textLength="390"
+        lengthAdjust="spacingAndGlyphs"
+        font-size="33"
+        font-weight="500"
+        fill="#75a9cd"
+        font-family="'Avenir Next Condensed', 'Avenir Next', 'Helvetica Neue', Arial, sans-serif"
+      >
+        Directives for accelerators
+      </text>
+    </g>
+  </g>
+</svg>
