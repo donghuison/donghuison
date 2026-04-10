@@ -17,7 +17,7 @@
 
 ---
 
-### 🌞 Research Focus
+<!-- ### 🌞 Research Focus
 
 - I’m currently working on **developing a code to solve multi-dimensional radiative (non-ideal) MHD equations.**
 - My interests include **high-performance computing and optimization techniques.**
@@ -45,7 +45,33 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/IDL-Interactive_Data_Language-orange?style=flat-square" alt="IDL" />
-</p>
+</p> -->
+
+```fortran
+module self
+  implicit none
+
+  character(len=*),parameter :: name = 'Donghui Son'
+  character(len=*),parameter :: role = 'Ph.D. Candidate'
+  character(len=*),parameter :: lab  = 'Solar Dynamics Laboratory'
+  character(len=*),parameter :: univ = 'Kyung Hee University'
+
+  character(len=32),dimension(4), parameter :: interests = (/ &
+       'Computational Physics         ', &
+       'Radiative Magnetohydrodynamics', &
+       'High-Performance Computing    ', &
+       'Solar Interior and Exterior   ' /)
+
+  character(len=16),dimension(6), parameter :: tools = (/ &
+       'Fortran         ', &
+       'C               ', &
+       'Python          ', &
+       'MPI             ', &
+       'OpenMP          ', &
+       'CUDA Fortran    ' /)
+
+end module self
+```
 
 ### 📊 GitHub Analytics
 
