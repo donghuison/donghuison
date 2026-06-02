@@ -50,8 +50,6 @@ module self
 end module self
 ```
 
----
-
 ## Developer Quote
 
 <p align="center">
@@ -62,8 +60,6 @@ end module self
     />
   </a>
 </p>
-
----
 
 ## Contribution Graph
 
