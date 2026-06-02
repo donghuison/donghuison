@@ -73,6 +73,8 @@ module self
 end module self
 ```
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### 📊 GitHub Analytics
 
 <p align="center">
