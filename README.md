@@ -50,23 +50,14 @@ module self
 end module self
 ```
 
-<!-- <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
-      alt="Readme Quotes"
-      width="600"
-      height="180"
-    />
-  </a>
-</p> -->
 <div align="center">
 
 ## Developer Quote
 
+</div>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
 
 <h2 align="center">Contribution Graph</h2>
 
