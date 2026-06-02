@@ -57,6 +57,8 @@ end module self
     <img
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
       alt="Readme Quotes"
+      width="600"
+      height="180"
     />
   </a>
 </p>
