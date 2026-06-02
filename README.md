@@ -43,23 +43,43 @@ module self
 end module self
 ```
 
-<p align="center">
+---
+
+## Developer Quote
+
+<!-- <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Readme Quotes" />
   </a>
-</p>
+</p> -->
 
-### 📊 GitHub Analytics
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donghuison&theme=xcode&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- ### 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api?username=donghuison&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api/top-langs/?username=donghuison&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight"/>
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donghuison&theme=tokyonight" alt="GitHub Streak" /> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donghuison&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <i>Simulating the Universe, one equation at a time 🌌</i>
-</p>
+</p> -->
