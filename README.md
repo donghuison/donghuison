@@ -5,6 +5,12 @@
 
 <h3 align="center">Ph.D. Student | Solar Physics | Computational Magnetohydrodynamics</h3>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=D97706&center=true&vCenter=true&width=650&lines=Somewhere+Between+the+Sun+and+Makefiles)](https://git.io/typing-svg)
+
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=donghuison&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -13,6 +19,7 @@
   <a href="mailto:dh5243@khu.ac.kr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
 </div>
 
 ---
@@ -47,12 +54,6 @@ end module self
 
 ## Developer Quote
 
-<!-- <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Readme Quotes" />
-  </a>
-</p> -->
-
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -69,17 +70,6 @@ end module self
 
 </div>
 
-<!-- ### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api?username=donghuison&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sable-iota-36.vercel.app/api/top-langs/?username=donghuison&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donghuison&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <i>Simulating the Universe, one equation at a time 🌌</i>
-</p> -->
+</p>
