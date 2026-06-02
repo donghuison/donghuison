@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=D97706&center=true&vCenter=true&width=650&lines=Somewhere+Between+the+Sun+and+Makefiles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=D97706&center=true&vCenter=true&width=780&lines=Somewhere+between+the+Sun+and+Makefiles;Success+is+born+from+the+time+spent+enduring+imperfection.)](https://git.io/typing-svg)
 
 </div>
 
