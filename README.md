@@ -54,21 +54,27 @@ end module self
 
 ## Developer Quote
 
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+      alt="Readme Quotes"
+    />
+  </a>
+</p>
 
 ---
 
 ## Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donghuison&theme=xcode&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=donghuison&theme=xcode&hide_border=true&area=true"
+      alt="Activity Graph"
+    />
+  </a>
+</p>
 
 <p align="center">
   <i>Simulating the Universe, one equation at a time 🌌</i>
