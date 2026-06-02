@@ -17,36 +17,6 @@
 
 ---
 
-<!-- ### 🌞 Research Focus
-
-- I’m currently working on **developing a code to solve multi-dimensional radiative (non-ideal) MHD equations.**
-- My interests include **high-performance computing and optimization techniques.**
-
-### 🛠️ Technical Stack
-
-<p align="center">
-  <img src="assets/icons/fortran.svg" height="40" alt="Fortran" />
-  <img src="assets/icons/c.svg" height="40" alt="C" />
-  <img src="assets/icons/python.svg" height="40" alt="Python" />
-  <img src="assets/icons/linux.svg" height="40" alt="Linux" />
-  <img src='assets/icons/openacc.png' height="40" alt="OpenAcc" />
-</p>
-
-<p align="center">
-  <strong>HPC & Parallel Computing</strong><br>
-  <img src="https://img.shields.io/badge/OpenMP-5.2-blue?style=flat-square&logo=openmp" alt="OpenMP" />
-  <img src="https://img.shields.io/badge/MPI-3.1-green?style=flat-square" alt="MPI" />
-  <img src="https://img.shields.io/badge/CUDA_Fortran-11.0-76B900?style=flat-square&logo=nvidia" alt="CUDA Fortran" />
-  <img src="https://img.shields.io/badge/OpenACC-3.3-orange?style=flat-square&logo=nvidia" alt="OpenACC" />
-</p>
-
-<p align="center">
-  <strong>Visualization</strong><br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/IDL-Interactive_Data_Language-orange?style=flat-square" alt="IDL" />
-</p> -->
-
 ```fortran
 module self
   implicit none
