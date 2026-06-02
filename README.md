@@ -50,9 +50,7 @@ module self
 end module self
 ```
 
-## Developer Quote
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
@@ -61,9 +59,16 @@ end module self
       height="180"
     />
   </a>
-</p>
+</p> -->
+<div align="center">
 
-## Contribution Graph
+## Developer Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
