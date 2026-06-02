@@ -54,9 +54,9 @@ end module self
 
 ## Developer Quote
 
-</div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 
 <h2 align="center">Contribution Graph</h2>
