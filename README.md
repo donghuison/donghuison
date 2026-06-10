@@ -54,10 +54,17 @@ end module self
 
 ## Developer Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=d97706&authorColor=b08968&symbolColor=d97706&backgroundColor=1e1e1e)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
+<h2 align="center">Agent Activity</h2>
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/donghuison/svg?template=orbit&color=orange&tokens=compact&cost=compact)](https://tokscale.ai/u/donghuison)
+
+</div>
 
 <h2 align="center">Contribution Graph</h2>
 
