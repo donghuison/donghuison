@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=D97706&center=true&vCenter=true&width=780&lines=Somewhere+between+the+Sun+and+Makefiles;Success+is+born+from+the+time+spent+enduring+imperfection.)](https://git.io/typing-svg)
+<img src="./assets/typing.svg" alt="Typing SVG" width="780">
 
 </div>
 
@@ -78,5 +78,5 @@ end module self
 </p>
 
 <p align="center">
-  <i>Simulating the Universe, one equation at a time 🌌</i>
+  <i>Success is born from the time spent enduring imperfection </i>
 </p>
