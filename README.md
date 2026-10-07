@@ -66,7 +66,7 @@ end module self
 
 </div>
 
-<h2 align="center">Contribution Graph</h2>
+<!-- <h2 align="center">Contribution Graph</h2>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -75,7 +75,7 @@ end module self
       alt="Activity Graph"
     />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <i>Success is born from the time spent enduring imperfection </i>
